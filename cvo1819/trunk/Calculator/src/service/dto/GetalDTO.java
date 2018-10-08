@@ -11,4 +11,6 @@ private String getal;
 	public void setGetal(String getal) {
 		this.getal = getal;
 	}
+
+
 }

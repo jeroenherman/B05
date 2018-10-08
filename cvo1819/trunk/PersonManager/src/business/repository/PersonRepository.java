@@ -6,7 +6,7 @@ import java.util.List;
 import business.Address;
 import business.Person;
 
-public class PersonRepository {
+public class PersonRepository implements {
 	
 	private List<Person> persons;
 	
